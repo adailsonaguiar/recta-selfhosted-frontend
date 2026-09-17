@@ -1,2 +1,0 @@
-/*
-  Content-Security-Policy-Report-Only: default-src 'none'; script-src 'self'; connect-src 'self' https://rectaapi.verolabso.com; img-src 'self'; style-src 'self'; base-uri 'self'; form-action 'self'
